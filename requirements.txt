@@ -1,2 +1,5 @@
 requests==2.31.0
 beautifulsoup4==4.12.3
+sentence-transformers==5.2.0
+numpy==1.24.3
+chromadb==0.4.22
